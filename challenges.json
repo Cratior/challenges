@@ -1,0 +1,16 @@
+[
+    {
+        "name": "Venus Return",
+        "icon": "Challenge Icons_12.png",
+        "group": "4 - Extreme",
+        "description": "Land on the surface of Venus, then ascend through the thick atmosphere and return safely",
+        "achieved": false
+    },
+    {
+        "name": "Mercury Return",
+        "icon": "Challenge Icons_12.png",
+        "group": "4 - Extreme",
+        "description": "Land on the surface of Mercury, then return safely",
+        "achieved": false
+    }
+]
