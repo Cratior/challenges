@@ -12,5 +12,131 @@
         "group": "4 - Extreme",
         "description": "Land on the surface of Mercury, then return safely",
         "achieved": false
+    },
+    {
+        "name": "Europa Landing",
+        "icon": "Challenge Icons_12.png",
+        "group": "4 - Extreme",
+        "description": "Land on the surface of Europa, then return safely",
+        "achieved": false
+    },
+    {
+        "name": "Ganymede Landing",
+        "icon": "Challenge Icons_12.png",
+        "group": "3 - Hard",
+        "description": "Land on the surface of Ganymede, then return safely",
+        "achieved": false
+    },
+    {
+        "name": "Io Landing",
+        "icon": "Challenge Icons_12.png",
+        "group": "3 - Hard",
+        "description": "Land on the surface of Io, then return safely",
+        "achieved": false
+    },
+    {
+        "name": "Venus Landing",
+        "icon": "Challenge Icons_13.png",
+        "group": "3 - Hard",
+        "description": "Descend through the thick atmosphere and land on the surface of Venus",
+        "achieved": false
+    },
+    {
+        "name": "Mars Landing",
+        "icon": "Challenge Icons_12.png",
+        "group": "3 - Hard",
+        "description": "Land on the surface of Mars, then return safely",
+        "achieved": false
+    },
+    {
+        "name": "Mercury Landing",
+        "icon": "Challenge Icons_13.png",
+        "group": "2 - Medium",
+        "description": "Land on the surface of Mercury",
+        "achieved": false
+    },
+    {
+        "name": "Moon Orbit",
+        "icon": "Challenge Icons_10.png",
+        "group": "2 - Medium",
+        "description": "Capture into low Moon orbit, then return safely",
+        "achieved": false
+    },
+    {
+        "name": "Reach Space",
+        "icon": "Challenge Icons_1.png",
+        "group": "2 - Medium",
+        "description": "Reach 30km altitude, survive reentry, and land safely",
+        "achieved": false
+    },
+    {
+        "name": "Reach Low Earth Orbit",
+        "icon": "Challenge Icons_2.png",
+        "group": "2 - Medium",
+        "description": "Reach low Earth orbit, then land safely",
+        "achieved": false
+    },
+    {
+        "name": "Moon Tour",
+        "icon": "Challenge Icons_3.png",
+        "group": "2 - Medium",
+        "description": "Land on 3 separate landmarks, then return safely",
+        "achieved": false
+    },
+    {
+        "name": "Mars Grand Tour",
+        "icon": "Challenge Icons_3.png",
+        "group": "2 - Medium",
+        "description": "Land on Mars, Phobos, and Deimos in one flight, then return safely",
+        "achieved": false
+    },
+    {
+        "name": "Asteroid Impact",
+        "icon": "Challenge Icons_11.png",
+        "group": "1 - Easy",
+        "description": "Crash into the surface of a Captured Asteroid at 200+ m/s",
+        "achieved": false
+    },
+    {
+        "name": "Liftoff",
+        "icon": "Challenge Icons_4.png",
+        "group": "1 - Easy",
+        "description": "Perform a successful liftoff and land safely",
+        "achieved": false
+    },
+    {
+        "name": "Reach 10km",
+        "icon": "Challenge Icons_7.png",
+        "group": "1 - Easy",
+        "description": "Reach 10km altitude and land safely",
+        "achieved": false
+    },
+    {
+        "name": "Land 100km downrange",
+        "icon": "Challenge Icons_0.png",
+        "group": "1 - Easy",
+        "description": "Land at least 100km away from the launch pad",
+        "achieved": false
+    },
+    {
+        "name": "Phobos Landing",
+        "icon": "Challenge Icons_12.png",
+        "group": "1 - Easy",
+        "description": "Land on the surface of Phobos, then return safely",
+        "achieved": false
+    },
+    {
+        "name": "Callisto Landing",
+        "icon": "Challenge Icons_12.png",
+        "group": "1 - Easy",
+        "description": "Land on the surface of Callisto, then return safely",
+        "achieved": false
+    },
+    {
+        "name": "Deimos Landing",
+        "icon": "Challenge Icons_12.png",
+        "group": "1 - Easy",
+        "description": "Land on the surface of Deimos, then return safely",
+        "achieved": true
     }
 ]
