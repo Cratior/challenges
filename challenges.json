@@ -31,7 +31,7 @@
         "name": "Mercury Return",
         "icon": "Challenge Icons_12.png",
         "group": "Hard",
-        "description": "Land on the surface of Mercury",
+        "description": "Return from the surface of Mercury",
         
     },
     {
@@ -39,6 +39,13 @@
         "icon": "Challenge Icons_12.png",
         "group": "Hard",
         "description": "Land on the surface of Venus",
+        
+    },
+    {
+        "name": "Venus Return",
+        "icon": "Challenge Icons_12.png",
+        "group": "Hard",
+        "description": "Return from the surface of Venus",
         
     },
     {
