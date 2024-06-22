@@ -1,4 +1,11 @@
 [
+        {
+        "name": "IDK",
+        "icon": "Challenge Icons_12.png",
+        "group": "WOMP WOMP",
+        "description": "💀",
+        "achieved": false
+    },
     {
         "name": "Venus Return",
         "icon": "Challenge Icons_12.png",
