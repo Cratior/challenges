@@ -1,7 +1,7 @@
 [
         {
         "name": "Jupiter Grand Tour",
-        "icon": "Challenge Icons_12.png",
+        "icon": "Challenge Icons_3.png",
         "group": "Impossible?!",
         "description": "Land on all of jupiter's moons all in one flight",
         
@@ -15,7 +15,7 @@
     },
     {
         "name": "Mars Grand Tour",
-        "icon": "Challenge Icons_12.png",
+        "icon": "Challenge Icons_3.png",
         "group": "Extreme",
         "description": "Land on Mars, Phobos and Deimos all in one flight",
         
