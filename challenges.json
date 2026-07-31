@@ -6,16 +6,16 @@
         "description": "Land on all five of Jool's moons all in one flight"
     },
     {
-        "name": "Tylo Landing",
-        "icon": "Challenge_Icons_12.png",
-        "group": "Extreme",
-        "description": "Land on the surface of Tylo"
-    },
-    {
         "name": "Eve Return",
         "icon": "Challenge_Icons_13.png",
         "group": "Extreme",
         "description": "Return from the surface of Eve"
+    },
+    {
+        "name": "Tylo Landing and Return",
+        "icon": "Challenge_Icons_13.png",
+        "group": "Extreme",
+        "description": "Land on Tylo, then return safely"
     },
     {
         "name": "Jool Tour",
@@ -30,34 +30,58 @@
         "description": "Land on the surface of Eve"
     },
     {
-        "name": "Moho Landing",
-        "icon": "Challenge_Icons_12.png",
-        "group": "Hard",
-        "description": "Land on the surface of Moho"
-    },
-    {
-        "name": "Moho Return",
+        "name": "Moho Landing and Return",
         "icon": "Challenge_Icons_13.png",
         "group": "Hard",
-        "description": "Return from the surface of Moho"
+        "description": "Land on Moho, then return safely"
     },
     {
-        "name": "Laythe Return",
+        "name": "Laythe Landing and Return",
         "icon": "Challenge_Icons_13.png",
         "group": "Hard",
-        "description": "Return from the surface of Laythe"
+        "description": "Land on Laythe, then return safely"
     },
     {
-        "name": "Eeloo Landing",
-        "icon": "Challenge_Icons_12.png",
+        "name": "Eeloo Landing and Return",
+        "icon": "Challenge_Icons_13.png",
         "group": "Hard",
-        "description": "Land on the surface of Eeloo"
+        "description": "Land on Eeloo, then return safely"
     },
     {
-        "name": "Vall Landing",
-        "icon": "Challenge_Icons_12.png",
+        "name": "Jool Dive",
+        "icon": "Challenge_Icons_11.png",
+        "group": "Hard",
+        "description": "Descend into Jool's atmosphere"
+    },
+    {
+        "name": "Vall Landing and Return",
+        "icon": "Challenge_Icons_13.png",
         "group": "Medium",
-        "description": "Land on the surface of Vall"
+        "description": "Land on Vall, then return safely"
+    },
+    {
+        "name": "Dres Landing and Return",
+        "icon": "Challenge_Icons_13.png",
+        "group": "Medium",
+        "description": "Land on Dres, then return safely"
+    },
+    {
+        "name": "Duna Landing and Return",
+        "icon": "Challenge_Icons_13.png",
+        "group": "Medium",
+        "description": "Land on Duna, then return safely"
+    },
+    {
+        "name": "Ike Landing and Return",
+        "icon": "Challenge_Icons_13.png",
+        "group": "Medium",
+        "description": "Land on Ike, then return safely"
+    },
+    {
+        "name": "Gilly Landing and Return",
+        "icon": "Challenge_Icons_13.png",
+        "group": "Medium",
+        "description": "Land on Gilly, then return safely"
     },
     {
         "name": "Duna Orbit",
@@ -66,34 +90,10 @@
         "description": "Capture into low Duna orbit"
     },
     {
-        "name": "Duna Landing",
-        "icon": "Challenge_Icons_12.png",
-        "group": "Medium",
-        "description": "Land on the surface of Duna"
-    },
-    {
-        "name": "Duna Return",
-        "icon": "Challenge_Icons_13.png",
-        "group": "Medium",
-        "description": "Return from the surface of Duna"
-    },
-    {
-        "name": "Ike Landing",
-        "icon": "Challenge_Icons_12.png",
-        "group": "Medium",
-        "description": "Land on the surface of Ike"
-    },
-    {
-        "name": "Dres Landing",
-        "icon": "Challenge_Icons_12.png",
-        "group": "Medium",
-        "description": "Land on the surface of Dres"
-    },
-    {
         "name": "Mun Tour",
         "icon": "Challenge_Icons_3.png",
         "group": "Medium",
-        "description": "Land on 3 seperate landmarks, then return safely"
+        "description": "Land on 3 separate landmarks, then return safely"
     },
     {
         "name": "Liftoff",
@@ -138,15 +138,15 @@
         "description": "Capture into low Mun orbit"
     },
     {
-        "name": "Minmus Landing",
-        "icon": "Challenge_Icons_12.png",
+        "name": "Minmus Landing and Return",
+        "icon": "Challenge_Icons_13.png",
         "group": "Easy",
-        "description": "Land on the surface of Minmus"
+        "description": "Land on Minmus, then return safely"
     },
     {
-        "name": "Mun Landing",
-        "icon": "Challenge_Icons_12.png",
+        "name": "Mun Landing and Return",
+        "icon": "Challenge_Icons_13.png",
         "group": "Easy",
-        "description": "Land on the surface of the Mun"
+        "description": "Land on the Mun, then return safely"
     }
 ]
