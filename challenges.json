@@ -6,10 +6,10 @@
         "description": "Land on all five of Jool's moons all in one flight"
     },
     {
-        "name": "Eve Return",
-        "icon": "Challenge_Icons_13.png",
+        "name": "Jool Tour",
+        "icon": "Challenge_Icons_3.png",
         "group": "Extreme",
-        "description": "Return from the surface of Eve"
+        "description": "Land on 3 of Jool's moons all in one flight"
     },
     {
         "name": "Tylo Landing and Return",
@@ -18,28 +18,10 @@
         "description": "Land on Tylo, then return safely"
     },
     {
-        "name": "Jool Tour",
-        "icon": "Challenge_Icons_3.png",
+        "name": "Eve Return",
+        "icon": "Challenge_Icons_13.png",
         "group": "Extreme",
-        "description": "Land on 3 of Jool's moons all in one flight"
-    },
-    {
-        "name": "Eve Landing",
-        "icon": "Challenge_Icons_12.png",
-        "group": "Hard",
-        "description": "Land on the surface of Eve"
-    },
-    {
-        "name": "Moho Landing and Return",
-        "icon": "Challenge_Icons_13.png",
-        "group": "Hard",
-        "description": "Land on Moho, then return safely"
-    },
-    {
-        "name": "Laythe Landing and Return",
-        "icon": "Challenge_Icons_13.png",
-        "group": "Hard",
-        "description": "Land on Laythe, then return safely"
+        "description": "Return from the surface of Eve"
     },
     {
         "name": "Eeloo Landing and Return",
@@ -48,22 +30,34 @@
         "description": "Land on Eeloo, then return safely"
     },
     {
+        "name": "Laythe Landing and Return",
+        "icon": "Challenge_Icons_13.png",
+        "group": "Hard",
+        "description": "Land on Laythe, then return safely"
+    },
+    {
         "name": "Jool Dive",
         "icon": "Challenge_Icons_11.png",
         "group": "Hard",
         "description": "Descend into Jool's atmosphere"
     },
     {
-        "name": "Vall Landing and Return",
+        "name": "Moho Landing and Return",
         "icon": "Challenge_Icons_13.png",
-        "group": "Medium",
-        "description": "Land on Vall, then return safely"
+        "group": "Hard",
+        "description": "Land on Moho, then return safely"
     },
     {
-        "name": "Dres Landing and Return",
-        "icon": "Challenge_Icons_13.png",
+        "name": "Eve Landing",
+        "icon": "Challenge_Icons_12.png",
+        "group": "Hard",
+        "description": "Land on the surface of Eve"
+    },
+    {
+        "name": "Mun Tour",
+        "icon": "Challenge_Icons_3.png",
         "group": "Medium",
-        "description": "Land on Dres, then return safely"
+        "description": "Land on 3 separate landmarks, then return safely"
     },
     {
         "name": "Duna Landing and Return",
@@ -84,28 +78,22 @@
         "description": "Land on Gilly, then return safely"
     },
     {
-        "name": "Duna Orbit",
-        "icon": "Challenge_Icons_10.png",
+        "name": "Dres Landing and Return",
+        "icon": "Challenge_Icons_13.png",
         "group": "Medium",
-        "description": "Capture into low Duna orbit"
+        "description": "Land on Dres, then return safely"
     },
     {
-        "name": "Mun Tour",
-        "icon": "Challenge_Icons_3.png",
+        "name": "Vall Landing and Return",
+        "icon": "Challenge_Icons_13.png",
         "group": "Medium",
-        "description": "Land on 3 separate landmarks, then return safely"
+        "description": "Land on Vall, then return safely"
     },
     {
         "name": "Liftoff",
         "icon": "Challenge_Icons_4.png",
         "group": "Easy",
         "description": "Liftoff and land safely"
-    },
-    {
-        "name": "Reach 10km",
-        "icon": "Challenge_Icons_7.png",
-        "group": "Easy",
-        "description": "Reach 10km and land safely"
     },
     {
         "name": "Reach Space",
@@ -126,22 +114,16 @@
         "description": "Reach high Kerbin orbit, then land safely"
     },
     {
-        "name": "Land 100km Downrange",
-        "icon": "Challenge_Icons_0.png",
+        "name": "Minmus Landing and Return",
+        "icon": "Challenge_Icons_13.png",
         "group": "Easy",
-        "description": "Land at least 100km away from the launchpad"
+        "description": "Land on Minmus, then return safely"
     },
     {
         "name": "Mun Orbit",
         "icon": "Challenge_Icons_10.png",
         "group": "Easy",
         "description": "Capture into low Mun orbit"
-    },
-    {
-        "name": "Minmus Landing and Return",
-        "icon": "Challenge_Icons_13.png",
-        "group": "Easy",
-        "description": "Land on Minmus, then return safely"
     },
     {
         "name": "Mun Landing and Return",
