@@ -6,12 +6,6 @@
         "description": "Land on all five of Jool's moons all in one flight"
     },
     {
-        "name": "Jool Tour",
-        "icon": "Challenge_Icons_3.png",
-        "group": "Extreme",
-        "description": "Land on 3 of Jool's moons all in one flight"
-    },
-    {
         "name": "Tylo Landing and Return",
         "icon": "Challenge_Icons_13.png",
         "group": "Extreme",
@@ -22,6 +16,12 @@
         "icon": "Challenge_Icons_13.png",
         "group": "Extreme",
         "description": "Return from the surface of Eve"
+    },
+    {
+        "name": "Jool Tour",
+        "icon": "Challenge_Icons_3.png",
+        "group": "Extreme",
+        "description": "Land on 3 of Jool's moons all in one flight"
     },
     {
         "name": "Eeloo Landing and Return",
@@ -114,12 +114,6 @@
         "description": "Reach high Kerbin orbit, then land safely"
     },
     {
-        "name": "Minmus Landing and Return",
-        "icon": "Challenge_Icons_13.png",
-        "group": "Easy",
-        "description": "Land on Minmus, then return safely"
-    },
-    {
         "name": "Mun Orbit",
         "icon": "Challenge_Icons_10.png",
         "group": "Easy",
@@ -130,5 +124,11 @@
         "icon": "Challenge_Icons_13.png",
         "group": "Easy",
         "description": "Land on the Mun, then return safely"
+    },
+    {
+        "name": "Minmus Landing and Return",
+        "icon": "Challenge_Icons_13.png",
+        "group": "Easy",
+        "description": "Land on Minmus, then return safely"
     }
 ]
